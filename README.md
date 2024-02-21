@@ -3,7 +3,7 @@ Tomcat 8 Docker Repository
 
 This repository contains files to run a sample application on Tomcat 8 and demonstrates a CI/CD process in action.
 
-## The Docker file
+### The Docker file
 
 1. Builds the tomcat 8.5 instance from scratch
 2. Clones the source code of a sample web application (You can substitute that with your own git repo)
